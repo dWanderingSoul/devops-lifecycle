@@ -69,6 +69,10 @@ The DevOps lifecycle is an ongoing loop that guides how software is built and ma
 8. **📊 Monitoring**  
    Track system health, application performance, and user behavior using tools like Prometheus, Grafana, or the ELK stack. Feedback here fuels future improvements.
 
+
+<p align="center">
+  <img src="https://www.simform.com/wp-content/uploads/2022/01/what-is-devops-lifecycle.webp" alt="DevOps Lifecycle Diagram" width="700"/>
+</p>
 ---
 
 ## ✅ Expected Outcome
